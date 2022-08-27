@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #eee;
+    text-decoration: none;
+    padding: 0% 0%;
+    box-sizing: border-box;
+}
+h1{
+    font-family: Roboto;
+    text-align: center;
+}
+h2{
+    margin-left: 50px;   
+}
+
+p{
+    margin-left: 50px;
+    margin-top: -19px; 
+}
+
+
+.resim-1{
+    margin-left: 50px;
+    margin-top: 70px;
+    box-shadow: 20px 10px 25px gray;
+    width:250px
+}
+    
+.Bill p{
+    margin-top:13px; 
+    margin-top: 2%;
+}
+
+.productowner{
+    -webkit-transform: rotate(90deg);
+    float:left;
+    margin-top: -29%;
+    margin-left: 25%;   
+}
+
+.resim-2{
+    margin-left: 50%;
+    margin-top: -30%;
+    box-shadow: 20px 10px 25px gray;
+    width: 250px;
+}
+
+.Saba p{
+    margin-left:50% ;
+    margin-top: 2%;
+}
+
+.artdırector{
+    -webkit-transform: rotate(90deg);
+    float: right;
+    margin-top: -30%;
+    margin-right: 17%;
+
+}
+
+.resim-3{
+    margin-left: 50px;
+    margin-top: 100px;
+    box-shadow: 20px 10px 25px gray;
+    width: 250px;
+}
+
+.Shae p{
+    margin-top: 2%;
+}
+
+.teachlead{
+    -webkit-transform: rotate(90deg);
+    float:left;
+    margin-top: -31%;
+    margin-left: 27%; 
+}
+
+.resim-4{
+    margin-left: 50px;
+    margin-top: 160px;
+    box-shadow: 20px 10px 25px gray;
+    width: 250px;
+}
+
+.Griff p{
+    margin-top: 2%;
+}
+
+.developer1{
+    -webkit-transform: rotate(90deg);
+    float: left;
+    margin-top: -31%;
+    margin-left: 27%;
+}
+
+.resim-5{
+    margin-left: 50%;
+    margin-top:-80%;
+    box-shadow: 20px 10px 25px gray;
+    width: 250px;
+}
+
+.Sylah p{
+    margin-left: 50%;
+    margin-top: 2%;
+
+}
+
+.developer2{
+    -webkit-transform: rotate(90deg);
+    float: left;
+    margin-left: 73%;
+    margin-top: -75%;
+}
+
+.resim-6{
+    margin-left: 50%;
+    margin-top: 15%;
+    box-shadow: 20px 10px 25px gray;
+    width: 250px;
+}
+
+.Stan p{
+    margin-left: 50%;
+    margin-top: 2%;
+}
+
+.developer3{
+    -webkit-transform: rotate(90deg);
+    float: left;
+    margin-left: 73%;
+    margin-top: -31%;
+}
